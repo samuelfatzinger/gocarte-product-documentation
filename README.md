@@ -6,6 +6,18 @@ The documentation demonstrates a full set of user, administrator, and developer 
 
 ---
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Documentation Structure](#documentation-structure)
+- [Product Concepts](#product-concepts)
+- [Intended Audience](#intended-audience)
+- [Documentation Goals](#documentation-goals)
+- [Author](#author)
+- [Portfolio Context](#portfolio-context)
+
+---
+
 # Overview
 
 GoCarte provides a centralized workspace where teams can create projects, assign tasks, monitor deadlines, and track progress through shared dashboards.
